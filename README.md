@@ -17,3 +17,4 @@ Tablet 744px
 Desktop 1260px
 
 [DEMO LINK](https://RomanHrytsiuk.github.io/Kickstarter_landing/)
+[Kickstarter Layout](https://github.com/RomanHrytsiuk/Kickstarter_landing/)
